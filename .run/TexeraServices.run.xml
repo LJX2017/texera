@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TexeraServices" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="10.0">
+    <runConfiguration name="ConfigService" type="Application" />
+    <runConfiguration name="TexeraWebApplication" type="Application" />
+    <runConfiguration name="FileService" type="Application" />
+    <runConfiguration name="WorkflowCompilingService" type="Application" />
+    <runConfiguration name="ComputingUnitMaster" type="Application" />
+    <runConfiguration name="ComputingUnitWorker" type="Application" />
+    <runConfiguration name="ComputingUnitManagingService" type="Application" />
+    <runConfiguration name="AccessControlService" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>
